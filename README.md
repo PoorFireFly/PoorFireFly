@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Weerawut Lukkanatorn</h1>
-<img align="right" alt="Coding" width="500" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=poorfirefly&label=Profile%20views&color=0e75b6&style=flat" alt="poorfirefly" /> </p>
+<h2 align="left">Hi 👋, I'm Weerawut Lukkanatorn</h2>
+<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
+
 
 - 🌱 I’m currently learning **C**
 
