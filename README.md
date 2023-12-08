@@ -16,10 +16,11 @@
 </div>
 
 <h3>About Me:</h3>
-o My Name is Weerawut Lukkanatorn <br>
-o My Nickname is Gear <br>
-o I'm studying at Rajamangala university of technology lanna Chiang Mai <br>
+  o My Name is Weerawut Lukkanatorn <br>
+  o My Nickname is Gear <br>
+  o I'm studying at Rajamangala university of technology lanna Chiang Mai <br>
 
 <h3 align="left">Languages and Tools:</h3>
+
 
 
