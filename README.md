@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi there</h2>
 
 <div id="badges" align="center">
-  <a  href="https://www.linkedin.com/in/weerawut-lukkanatorn-3752102a4/" target="_blank">
+  <a  href="https://www.linkedin.com/in/weerawut-lukkanatorn-3752102a4/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinknedIn Badge"/>
   </a>
   <a  href="https://www.instagram.com/gear_wrt/?hl=en" target="_blank">
