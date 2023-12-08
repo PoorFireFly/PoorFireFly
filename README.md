@@ -16,9 +16,9 @@
 </div>
 
 <h3>About Me:</h3>
-  o My Name is Weerawut Lukkanatorn
-  o My Nickname is Gear
-  o I'm studying at Rajamangala university of technology lanna Chiang Mai
+o My Name is Weerawut Lukkanatorn
+o My Nickname is Gear
+o I'm studying at Rajamangala university of technology lanna Chiang Mai
 
 <h3 align="left">Languages and Tools:</h3>
 
