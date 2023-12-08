@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="300"/>
 </div>
-<h2 align="center">Hi 👋, I'm Weerawut Lukkanatorn</h2>
+<h2 align="center">👋 Hi there/h2>
 
 <div id="badges" align="center">
   <a  href="https://www.linkedin.com/in/weerawut-lukkanatorn-3752102a4/" target="_blank">
@@ -18,7 +18,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3>About Me:</h3>
+<p></p>
 <p align="left">
 </p>
 
