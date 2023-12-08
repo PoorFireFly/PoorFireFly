@@ -1,5 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <h2 align="left">Hi 👋, I'm Weerawut Lukkanatorn</h2>
-<img align="right" alt="Coding" width="400" src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
 - 🌱 I’m currently learning **C**
