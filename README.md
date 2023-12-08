@@ -15,12 +15,11 @@
   </a>
 </div>
 
-
-
-
 <h3>About Me:</h3>
 <p></p>
 <p align="left">
+  o My Name is Weerawut Lukkanatorn
+  o My Nickname is Gear
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
